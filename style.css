@@ -1,0 +1,80 @@
+                                        body {
+                                        margin: 0;
+                                        padding: 0;
+                                    }
+                                    
+                                    .parent {
+                                        display: flex;
+                                        width: 80%;
+                                        margin: 0 auto;
+                                    }
+                                    
+                                    .photo img {
+                                        width: 350px;
+                                    }
+                                    
+                                    #border-left-color {
+                                        border-left: 5px solid rgb(192, 73, 73);
+                                    }
+                                    
+                                    .Explore-btm {
+                                        padding: 10px 30px;
+                                        background-color: rgb(179, 34, 77);
+                                    }
+                                    
+                                    .second-section {
+                                        text-align: center;
+                                        margin-top: 50px;
+                                    }
+                                    
+                                    .mission {
+                                        width: 250px;
+                                        border: 0px solid gray;
+                                        border-radius: 25px;
+                                        background-color: rgb(220, 231, 235);
+                                    }
+                                    
+                                    .div-img img {
+                                        width: 50%;
+                                    }
+                                    
+                                    .all-mission {
+                                        display: flex;
+                                        justify-content: space-around;
+                                        padding: 20px;
+                                    }
+                                    
+                                    .parent-01 {
+                                        display: flex;
+                                        padding-top: 5%;
+                                        width: 80%;
+                                        margin: 0 auto;
+                                    }
+                                    
+                                    .photos-1 img {
+                                        width: 450px;
+                                        height: 350px;
+                                    }
+                                    
+                                    .read-btom {
+                                        padding: 10px 30px;
+                                        background-color: rgb(179, 34, 77);
+                                    }
+                                    
+                                    .parent-02 {
+                                        display: flex;
+                                        padding-top: 5%;
+                                        width: 80%;
+                                        margin: 0 auto;
+                                    }
+                                    
+                                    .photo img {
+                                        width: 350px;
+                                    }
+                                    
+                                    .five-section {
+                                        text-align: center;
+                                        margin-top: 50px;
+                                        footer {
+                                            text-align: center;
+                                        }
